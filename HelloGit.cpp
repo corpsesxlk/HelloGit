@@ -7,8 +7,11 @@ int main()
 {
     std::cout << "Hello World!\n";
     cout << "wokao";
+
     cout<<"rinima de git";
-    cout << "vacation will be over";
+    cout << "git time has gone";
+
+
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
