@@ -9,8 +9,9 @@ int main()
     cout << "wokao";
 
     cout<<"rinima de git";
-    cout << "git time has gone";
 
+=========
+    cout << "vacation will be over";
 
 }
 
